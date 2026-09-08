@@ -34,7 +34,7 @@ The analysis covered areas including:
 
 ![Database Screenshot 1](DB%20Pic1.png)
 
-![Database Screenshot 2](DB%20Pic2.png)
+![Database Screenshot 2](DB%20pic 2.png)
 
 ## Professional Experience
 
