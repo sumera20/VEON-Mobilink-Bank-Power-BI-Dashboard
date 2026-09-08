@@ -34,7 +34,7 @@ The analysis covered areas including:
 
 ![Database Screenshot 1](DB%20Pic1.png)
 
-![Database Screenshot 2](DB%20pic 2.png)
+![Database Screenshot 2](DB%20pic%202.png)
 
 ## Professional Experience
 
@@ -51,4 +51,4 @@ As a Data Analyst at **VEON – Mobilink Microfinance Bank**, I developed Power 
 
 ## Note
 
-The screenshots and examples in this repository are provided for portfolio and demonstration purposes. No customer personal information or confidential credentials are included.
+These screenshots are provided for portfolio and demonstration purposes. **Certain data and identifiers have been hidden or masked to protect confidentiality.** No customer personal information, confidential credentials, or sensitive banking information is intentionally included.
